@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Reuters foreign correspondent
+subtitle: Provide news materials on the 2018 Sichuan rainstorm
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Contributed press photos to Reuters in 2018
 
 ### My story
 
