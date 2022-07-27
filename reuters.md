@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reuters foreign correspondent
+title: Reuters Foreign Correspondent
 cover-img: /assets/img/5F34B1EE-1926-4576-A735-D650A4C14F21.jpeg
 ---
 
