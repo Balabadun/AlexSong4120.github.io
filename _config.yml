@@ -24,7 +24,8 @@ navbar-links:
   Alex At Work:
     - Resume: "resume"
     - More: "https://www.ualberta.ca/"
-  Alex At Home: ""
+  Alex At Home:
+    - Reuters: "reuters"
 
 ################
 # --- Logo --- #
