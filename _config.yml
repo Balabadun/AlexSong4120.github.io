@@ -25,7 +25,7 @@ navbar-links:
     - Resume: "resume"
     - More: "https://www.ualberta.ca/"
   Alex At Home:
-    - Reuters: "reuters"
+    - Reuters: "/_posts/reuters.md"
 
 ################
 # --- Logo --- #
