@@ -5,9 +5,9 @@ subtitle: Here is the Resume
 ---
 
 <div id="resume-pdf" class="base">
-  <object data="{{ site.baseurl }}/assets/document/SONGTongzhou_Resume_07262022.pdf" width="100%" height="800" type="application/pdf">
-    <embed src="{{ site.baseurl }}/assets/document/SONGTongzhou_Resume_07262022.pdf" type='application/pdf'>
-      Unable to display - <a href="{{ site.baseurl }}/CV/Wentao_Yao_Resume.pdf">Download</a>
+  <object data="{{ site.baseurl }}/assets/document/SONGTongzhou_Resume.pdf" width="100%" height="800" type="application/pdf">
+    <embed src="{{ site.baseurl }}/assets/document/SONGTongzhou_Resume.pdf" type='application/pdf'>
+      Unable to display - <a href="{{ site.baseurl }}/assets/document/SONGTongzhou_Resume.pdf">Download</a>
     </embed>
   </object>
 </div>
